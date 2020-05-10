@@ -1,11 +1,13 @@
 {
-	"applinks":{
-		"apps":[],
-		"details":[
-			{
-				"appid":"XT49V48SU4.mobi.95526.bjbank",
-				"paths":["*"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appid": "XT49V48SU4.mobi.95526.bjbank",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
