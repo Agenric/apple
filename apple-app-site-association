@@ -1,11 +1,15 @@
 {
-	"applinks":{
-		"apps":[],
-		"details":[
-			{
-				"appid":"XT49V48SU4.mobi.95526.bjbank",
-				"paths":["*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "G56NU654TV.io.dcloud.HBuilder",
+                "paths": [ "/ulink/*"]
+            },
+            {
+                "appID": "G56NU654TV.io.dcloud.T",
+                "paths": [ "/ulinktest/*"]
+            }
+        ]
+    }
 }
