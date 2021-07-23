@@ -3,8 +3,16 @@
         "apps": [],
         "details": [
             {
-                "appID": "2M4WW2KKY5.com.meituanbike.demo",
-                "paths": [ "*" ]
+                "appID": "XT49V48SU4.mobi.95526.bjbank",
+                "paths": ["*"]
+            },
+	    {
+                "appID": "GMNDF9KPZ3.95526.mobi",
+                "paths": ["*"]
+            },
+	    {
+                "appID": "Q7M8KJW5KC.95526.mobi",
+                "paths": ["*"]
             }
         ]
     }
