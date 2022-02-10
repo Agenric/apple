@@ -9,10 +9,6 @@
 	    {
                 "appID": "GMNDF9KPZ3.95526.mobi",
                 "paths": ["*"]
-            },
-	    {
-                "appID": "Q7M8KJW5KC.95526.mobi",
-                "paths": ["*"]
             }
         ]
     }
