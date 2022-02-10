@@ -1,13 +1,13 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "2M4WW2KKY5.com.meituanbike.demo",
-        "paths": [
-          "*"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2M4WW2KKY5.com.meituanbike.demo",
+                "paths": [
+                    "*"
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
