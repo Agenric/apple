@@ -5,12 +5,14 @@
             {
                 "appID": "GMNDF9KPZ3.95526.mobi",
                 "paths": [
-                    "*"
+                    "/dev/index.html"
                 ]
             },
             {
                 "appID": "XT49V48SU4.mobi.95526.bjbank",
-                "paths": ["*"]
+                "paths": [
+                    "/adhoc/index.html"
+                ]
             }
         ]
     }
